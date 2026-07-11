@@ -1,0 +1,10 @@
+"""The crispcv mark, inlined so preview mode has no file dependencies."""
+
+LOGO_SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="28" height="28" role="img" aria-label="crispcv logo">
+  <rect x="8" y="4" width="40" height="56" rx="6" fill="#2563eb"/>
+  <path d="M48 4 L60 16 L48 16 Z" fill="#93c5fd"/>
+  <rect x="16" y="18" width="18" height="5" rx="2.5" fill="#ffffff"/>
+  <rect x="16" y="29" width="24" height="4" rx="2" fill="#bfdbfe"/>
+  <rect x="16" y="38" width="24" height="4" rx="2" fill="#bfdbfe"/>
+  <rect x="16" y="47" width="16" height="4" rx="2" fill="#bfdbfe"/>
+</svg>"""

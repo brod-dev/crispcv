@@ -1,0 +1,47 @@
+[basics]
+name = "Jordan Avery"
+label = "Senior Product Designer"
+email = "jordan.avery@example.com"
+phone = "+1 (555) 010-7788"
+location = "Portland, OR"
+website = "jordanavery.example"
+summary = "Product designer with nine years of experience taking B2B tools from murky requirements to shipped, measurable features. I care about typography, fast feedback loops, and leaving every design system better than I found it."
+
+[[work]]
+company = "Northwind Labs"
+role = "Senior Product Designer"
+start = "2021"
+end = "Present"
+highlights = [
+  "Led the redesign of the onboarding flow, lifting trial-to-paid conversion from 12% to 19%.",
+  "Built and documented a 60-component design system now used by four product teams.",
+  "Ran monthly research sessions with customers and turned findings into a prioritized roadmap.",
+]
+
+[[work]]
+company = "Harbor & Pine"
+role = "Product Designer"
+start = "2017"
+end = "2021"
+highlights = [
+  "Shipped the mobile booking experience used by 40k monthly travelers.",
+  "Cut support tickets about checkout by a third after a two-week usability push.",
+]
+
+[[projects]]
+name = "Typewell"
+description = "A weekend tool that grades landing-page typography and suggests fixes."
+link = "https://example.com/typewell"
+
+[[education]]
+school = "Portland State University"
+degree = "B.F.A. Graphic Design"
+start = "2013"
+end = "2017"
+
+[skills]
+groups = [
+  { name = "Design", items = ["Interaction design", "Design systems", "User research", "Prototyping"] },
+  { name = "Tools", items = ["Figma", "Framer", "Origami", "HTML/CSS"] },
+  { name = "Working style", items = ["Async-first", "Writes docs", "Ships weekly"] },
+]
